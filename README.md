@@ -1,1 +1,3 @@
-Adapted COCO API to incorporate normalization in AP calculation as per http://dhoiem.cs.illinois.edu/projects/detectionAnalysis/.
+Adapted COCO API to implement normalized AP as per http://dhoiem.cs.illinois.edu/projects/detectionAnalysis/.
+
+See cocoeval.py
